@@ -3,6 +3,10 @@
   min-height: 10rem;
 }
 
+.main-header__content {
+  z-index: 9999;
+}
+
 .main-header__content-item {
   position: relative;
 }
